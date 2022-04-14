@@ -6,7 +6,16 @@ It's an Audio Player Which uses a Queue for Playlists and a Binary Tree for Sear
 
 Part of a project for Data Stuctures and Algorithms II course finished in 05/2022
 
-<img width="351" alt="Flowchart" src="https://user-images.githubusercontent.com/82515232/162977715-60a466ae-7b2c-422c-b92d-189f6bbf8686.png">
+
+<div>
+  
+  <p align="center">
+  <img width="400" alt="Flowchart" src="https://user-images.githubusercontent.com/82515232/162977715-60a466ae-7b2c-422c-b92d-189f6bbf8686.png"> <br/>
+  
+</div>
+
+
+
 
 
 ![RunPlaylist()](https://user-images.githubusercontent.com/82515232/162977981-ca8af3be-df0f-49f0-b7f6-1e49bbf6c5d6.png)
